@@ -1,0 +1,155 @@
+body{
+	text-align: center;	
+}
+h4{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.navbar-toggler{  
+  border-style: solid;
+  border-width: 5px;  
+}
+.main-heading{  
+  padding: 8px 2px; 
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 2rem;
+  word-spacing: 10px;
+}
+.sub-headings{
+  color: #FFD700;
+}
+.impact-list{
+  margin: auto;
+  width: 70%;
+}
+.row{
+  text-align:center;
+  border-radius:10px;
+}
+.media-logos{
+	height:30px;
+	width:30px;
+  display: inline;    
+}
+.contact-us{
+  font-size: 1.2rem;
+  color: #FFD700;
+}
+.media-list{
+  padding: 10px;
+  list-style-type: none;
+  
+}
+.banner-img{
+  max-height: 500px;
+}
+.impact-areas{
+  background-color: #FFFFFF;  
+}
+.impact-details{
+  height: 80px;
+  width: 80px;  
+  border-radius: 50%;
+  padding: 5px;  
+  border-color: #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #007BFF;
+}
+@media (min-width: 800px){
+.sec-img{
+  max-height: 165px;
+  }
+}
+.card-title{
+  font-size: 1.5rem;
+}
+.card-img-top{
+  position: relative;  
+  width: 100%;
+  height: 100%;
+
+}
+.logos{height: 40px;
+		width: 40px;
+
+}
+.btn{
+  border-color: #FFD700;
+  border-style: solid;
+  border-width: 3px;
+  color: #FFFFFF;
+  background: #007BFF;
+}
+
+.logo{
+	height: 60px;
+	width: 60px;
+}
+
+.slogan{
+	font-family: 'Newsreader', serif;
+  color: #FFD700;
+}
+
+.card-header{
+background-color: #6925CC;
+border-radius:5px;
+color: #FFFFFF;
+border-color: #FFD700;
+border-style: solid;
+border-width: 3px;
+}
+.card{
+	background-color: transparent;
+  border:10px;
+	border-radius: 10px;
+
+	}
+.feature-card{
+	background-color: transparent;
+	}
+.btn{
+	background-color: #6925CC;
+	}
+.btn:hover{
+  color: #FFC107;
+}
+.links{
+  color: #FFFFFF;
+  font-size: 0.85rem;
+}
+.links:hover{
+  color: #FFC107;  
+}
+@media (min-width: 800px){
+.links-a{
+  color: #FFFFFF;
+  font-size: 1.0rem;
+}
+}
+.links-a{
+  font-size:16px;
+}
+
+.nav-link:hover,.nav-item:hover{
+  color: #FFC107;
+}
+#volunteers{
+  margin-bottom: 30px;
+}
+.values{
+  font-size: 1.5rem;
+  color: #FFD700;
+}
+.products{
+  color: #FFFFFF;
+  font-size: 0.8rem;
+}
+.bot-nav{
+  margin: auto;
+  width:50%;
+}
